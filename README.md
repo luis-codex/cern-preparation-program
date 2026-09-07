@@ -1,23 +1,29 @@
 # CERN Preparation Program
 
-Repositorio para documentar mi participación en el programa de preparación **prep_cern**,
-enfocado en la introducción al análisis de datos abiertos del experimento CMS (CERN Open Data).
+Repositorio personal donde documento mi participación en el programa de preparación
+**prep_cern**, cuyo primer módulo es una introducción al análisis de datos abiertos
+del experimento **CMS** (CERN Open Data).
+
+- **Participante:** Luis Tenorio
+- **Institución:** Universidad de las Fuerzas Armadas ESPE
+- **GitHub:** https://github.com/luis-codex
 
 ## Objetivo personal
 
-Adquirir las bases teóricas y prácticas necesarias para trabajar con datos abiertos de
-física de altas energías, fortaleciendo mis habilidades en análisis de datos, programación
-científica y trabajo colaborativo, con la meta de contribuir de forma efectiva en proyectos
-de investigación basados en CMS Open Data.
+Vengo del desarrollo de software y quiero llevar esas bases hacia la física
+computacional. Mi meta en este programa es aprender a trabajar de forma autónoma con
+los datos abiertos de CMS: entender su formato, procesarlos y reproducir análisis
+sencillos de física de partículas. A mediano plazo busco tener el criterio y las
+herramientas para sumarme a un proyecto de investigación que use CERN Open Data.
 
 ## Tecnologías y áreas que deseo fortalecer
 
-- **Python** para análisis de datos científicos (NumPy, pandas, Matplotlib)
-- **ROOT** y el ecosistema de análisis de física de partículas
-- **Git y GitHub** para control de versiones y trabajo colaborativo
-- **Línea de comandos / Linux** y entornos reproducibles (Docker, Conda)
-- Fundamentos de **física de partículas** y del experimento **CMS**
-- Estadística y visualización de datos aplicada a resultados experimentales
+- **Python científico:** NumPy, pandas, Matplotlib y `uproot` para leer datos de CMS.
+- **ROOT** y el flujo de análisis habitual en física de altas energías.
+- **Git y GitHub** para versionar mi trabajo y colaborar de forma ordenada.
+- **Linux y entornos reproducibles:** línea de comandos, Docker y Conda.
+- **Fundamentos de física de partículas** y del detector **CMS**.
+- **Estadística y visualización** aplicadas a resultados experimentales.
 
 ## Estructura del repositorio
 
@@ -30,6 +36,5 @@ cern-preparation-program/
     └── ejercicios/
 ```
 
-## Perfil
-
-- GitHub: https://github.com/luis-codex
+Cada semana tendrá su propia carpeta con un `README.md` de resumen, las `evidencias/`
+solicitadas y los `ejercicios/` que desarrolle.
