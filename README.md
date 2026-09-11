@@ -30,7 +30,11 @@ herramientas para sumarme a un proyecto de investigación que use CERN Open Data
 ```
 cern-preparation-program/
 ├── README.md
-└── semana-01/
+├── semana-01/
+│   ├── README.md
+│   ├── evidencias/
+│   └── ejercicios/
+└── semana-02/
     ├── README.md
     ├── evidencias/
     └── ejercicios/
